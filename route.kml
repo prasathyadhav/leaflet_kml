@@ -30,5 +30,12 @@
    </Point>
    <name>Go Around Wyndham Finish</name>
   </Placemark>
+  <Placemark>
+   <styleUrl>#finish_marker</styleUrl>
+   <Point>
+    <coordinates>144.55580627,-37.98517589,0</coordinates>
+   </Point>
+   <name>10 KMS milestone</name>
+  </Placemark>
  </Document>
 </kml>
